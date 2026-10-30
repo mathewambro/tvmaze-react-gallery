@@ -1,3 +1,4 @@
+# tvmaze-react-gallery
 A searchable TV show gallery built with React, Vite, and React Router. It searches TVmaze for shows, displays up to 10 results, and provides a detail page with show information and cast members.
 
 
